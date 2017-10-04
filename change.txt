@@ -1,1 +1,2 @@
 Feature A change 2
+Feature B change 1
